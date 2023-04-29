@@ -10,7 +10,7 @@ To run this project, you will need to have the following software installed:
 Microsoft SQL Server
 Once you have these installed, follow these steps:
 
-Clone the repository using git clone https://github.com/SUNIL-RAGHU/E--COMPLIANT-PORTAL.git.
+Clone the repository using git clone https://github.com/SUNIL-RAGHU/E-Complaint-Portal.git.
 Open the project in Visual Studio.
 In the appsettings.json file, update the connection string to match your SQL Server instance.
 Run the project.
